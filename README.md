@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @gpopides
-- 👀 I’m interested in backend systems.  I prefer using functional languages.
-- I also like working on front ends using React and TypeScript
-- Currently i'm working as a Software Engineer @Katanox
-- 📫 How to reach me: gpopides@protonmail.com
+- I'm @gpopides and currently live in Amsterdam where i work as a Software Engineer at [Katanox](https://www.katanox.com).
+- How to reach me: gpopides@protonmail.com
 - You can also have a look at my [gitlab profile](https://gitlab.com/gpopides)
+- You can learn more about me [at my personal website](https://gpopides.me)
 
 # Tools that i daily use:
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> 
